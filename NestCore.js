@@ -2,7 +2,7 @@ var storage = require('node-persist');
 var uuid = require('./').uuid;
 var Accessory = require('./').Accessory;
 var Camera = require('./').Camera;
-var config = require('./Config');
+var config = require('./Configuration');
 
 console.log("HAP-NodeJS starting...");
 
