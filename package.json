@@ -14,7 +14,8 @@
     "fast-srp-hap": "^1.0.1",
     "ip": "^1.1.3",
     "mdns": "^2.3.3",
-    "node-persist": "^0.0.11"
+    "node-persist": "^0.0.11",
+    "request": "^2.81.0"
   },
   "devDependencies": {
     "simple-plist": "0.0.4"
@@ -25,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KhaosT/HAP-NodeJS.git"
+    "url": "https://github.com/ryanquinlan/HAP-NodeJS.git"
   },
   "author": "Khaos Tian <khaos.tian@gmail.com> (http://tz.is/)",
   "license": "Apache-2.0",
