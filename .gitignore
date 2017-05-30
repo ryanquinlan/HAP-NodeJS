@@ -2,3 +2,6 @@ persist
 node_modules
 .DS_Store
 Configuration.js
+Vagrantfile
+.vagrant
+node_modules
